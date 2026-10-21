@@ -5,6 +5,9 @@
 About django-rest-swagger
 =========================
 
+> [!WARNING]
+> **django-rest-swagger is no longer maintained upstream.** The upstream repository [marcgibbons/django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) is archived on GitHub, and the last release was 2.2.0 on 2018-04-30. This feedstock stays available for existing users, but no new versions are expected. Consider [drf-spectacular](https://github.com/conda-forge/drf-spectacular-feedstock) instead.
+
 Home: https://github.com/marcgibbons/django-rest-swagger
 
 Package license: BSD-2-Clause
